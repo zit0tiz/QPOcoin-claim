@@ -5,5 +5,5 @@ Dit project laat gebruikers SPL-tokens claimen via Phantom Wallet op Solana Main
 ## 🔧 Installatie
 1. Clone deze repository:
    ```sh
-   git clone https://github.com/jouw-gebruikersnaam/jouw-repo](https://github.com/zit0tiz/QPOcoin-claim.git
+   git clone https://github.com/zit0tiz/QPOcoin-claim.git
    cd QPOcoin-claim
