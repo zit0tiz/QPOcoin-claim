@@ -1,0 +1,4 @@
+node_modules/       # Vermijdt het uploaden van npm-pakketten
+.env                # Bevat vaak geheime API-sleutels
+*.log               # Vermijdt logbestanden
+dist/               # Vermijdt gecompileerde bestanden
